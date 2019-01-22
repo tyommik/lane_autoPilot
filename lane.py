@@ -1,0 +1,3 @@
+class Lane:
+
+    MOSTLY_HORIZONTAL_SLOPE = 0.4
